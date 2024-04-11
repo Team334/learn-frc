@@ -92,4 +92,4 @@ Make directory on the current directory
 
 Delete a directory in the current directory
 
-![rmdir](./src/00/rmdir.png))
+![rmdir](./src/00/rmdir.png)
