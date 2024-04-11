@@ -12,7 +12,7 @@ You are gonna need some tools first
 | WPILIB | https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html |
 | FRC Game Tools | https://www.ni.com/en/support/downloads/drivers/download.frc-game-tools.html |
 | Pathplanner | https://github.com/mjansen4857/pathplanner |
-| Elastic Dashboard | |
+| Elastic Dashboard | https://github.com/Gold872/elastic-dashboard |
 
 ### WPILIB
 
